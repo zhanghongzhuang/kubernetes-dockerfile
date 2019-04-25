@@ -1,4 +1,5 @@
-FROM k8s.gcr.io/heapster-amd64:v1.5.4
+FROM gcr.io/google_containers/heapster-grafana-amd64:v4.4.3
+
 
 MAINTAINER ideal <zhanghongyangzhy@gmail.com>
 
